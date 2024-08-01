@@ -35,6 +35,7 @@
 
 <details>
 
+-   [`e8ef5ad`](https://github.com/stdlib-js/stdlib/commit/e8ef5ad04ba9508f9aa5846ee108afb68ef58dab) - **test:** update descriptions _(by Athan Reines)_
 -   [`2254a56`](https://github.com/stdlib-js/stdlib/commit/2254a5616945ee973f080c6d35f19e51778e24ee) - **feat:** add `blas/base/strmv` [(#2535)](https://github.com/stdlib-js/stdlib/pull/2535) _(by Aman Bhansali, Athan Reines)_
 
 </details>
