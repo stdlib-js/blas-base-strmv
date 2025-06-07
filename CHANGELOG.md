@@ -34,6 +34,7 @@
 
 <details>
 
+-   [`7531b27`](https://github.com/stdlib-js/stdlib/commit/7531b27b47a63c889677a4525a6791cb700a3fac) - **test:** change structure of fixtures for `blas/base/strmv` [(#7252)](https://github.com/stdlib-js/stdlib/pull/7252) _(by Shabareesh Shetty)_
 -   [`a6cc0ea`](https://github.com/stdlib-js/stdlib/commit/a6cc0eaad0bc431fb2c531517697992fff2e6608) - **test:** add test cases for `blas/base/strmv` [(#7164)](https://github.com/stdlib-js/stdlib/pull/7164) _(by Shabareesh Shetty)_
 -   [`cc34e03`](https://github.com/stdlib-js/stdlib/commit/cc34e0328c78ed7016921e7be6429221ce77c308) - **refactor:** use base assertion utility _(by Athan Reines)_
 -   [`8a48ebe`](https://github.com/stdlib-js/stdlib/commit/8a48ebe8c17721be56ba39a16bce3b13441fdc57) - **test:** add test cases for `blas/base/strmv` [(#6732)](https://github.com/stdlib-js/stdlib/pull/6732) _(by Shabareesh Shetty)_
