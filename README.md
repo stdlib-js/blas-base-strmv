@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import strmv from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-strmv@deno/mod.js';
+import strmv from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-strmv@v0.1.0-deno/mod.js';
 ```
 
 #### strmv( order, uplo, trans, diag, N, A, LDA, x, sx )
@@ -156,7 +156,7 @@ strmv.ndarray( 'upper', 'no-transpose', 'unit', 3, A, 3, 1, 0, x, -1, 2 );
 
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
-import strmv from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-strmv@deno/mod.js';
+import strmv from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-strmv@v0.1.0-deno/mod.js';
 
 var opts = {
     'dtype': 'float32'
