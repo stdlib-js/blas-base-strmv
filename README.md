@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import strmv from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-strmv@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/blas-base-strmv/tags). For example,
+
+```javascript
 import strmv from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-strmv@v0.1.0-esm/index.mjs';
 ```
 
@@ -161,7 +166,7 @@ strmv.ndarray( 'upper', 'no-transpose', 'unit', 3, A, 3, 1, 0, x, -1, 2 );
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import strmv from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-strmv@v0.1.0-esm/index.mjs';
+import strmv from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-strmv@esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
