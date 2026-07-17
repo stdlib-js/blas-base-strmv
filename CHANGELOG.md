@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-24)
+## Unreleased (2026-07-17)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`88a418a`](https://github.com/stdlib-js/stdlib/commit/88a418a1f4e63dbd7086ad395325303d34753f55) - **refactor:** add support for enums in `blas/base/strmv` [(#13509)](https://github.com/stdlib-js/stdlib/pull/13509) _(by Kaustubh Patange)_
 -   [`e540461`](https://github.com/stdlib-js/stdlib/commit/e540461e94f4d7bcc56d361e0fc4d24790143b52) - **bench:** refactor to use string interpolation in `blas/base/strmv` [(#10461)](https://github.com/stdlib-js/stdlib/pull/10461) _(by Lokesh Ranjan)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Kaustubh Patange
 -   Lokesh Ranjan
 
 </section>
